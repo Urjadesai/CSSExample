@@ -1,0 +1,619 @@
+#container{
+    height: 1000px;
+    width: 850px;
+    margin-left: 303px;
+    margin-top: 30px;
+    background-image: url('images/adv_bg.jpg');
+}
+
+ #formdiv {
+    margin-top: 10px;
+   
+   
+} 
+#mysrcc{
+    height: 37px;
+    width: 170px;
+    /* margin-top:10px; */
+     margin-left: 40px;
+    padding-left: 20px;
+   
+}
+
+#myCountry{
+    margin-left:230px;
+    /* margin-top: 30px; */
+}
+#srchbn{
+    height: 21px;
+    width:25px;
+    margin-left: 0px;
+    margin-top: 23px;
+    position: absolute;
+   
+}
+#fntsize{
+    font-size:10px;
+    margin-left: 125px;
+        
+}
+
+#menuitem{
+    font-size: 11px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 10px;
+    
+}
+
+.mainitem{
+    float: left;
+    padding: 9px;
+    margin-left: 43px;
+    border: 1px solid black;
+}
+
+
+#item{
+    background-color:dodgerblue;
+   width: 160px;
+   margin-left: 0px;
+   border: 3px solid  dodgerblue;
+   padding-left: 39px;
+   padding-bottom: 2px;
+   color: white;
+}
+
+#item1{
+    background-color: rgb(216, 214, 214);
+    width:145px;
+    margin-left: 0px;
+    border: 3px solid  rgb(216, 214, 214);
+    padding-left: 21px;
+    padding-bottom: 2px;
+}
+
+#item2{
+    background-color: rgb(216, 214, 214);
+    width:136px;
+    margin-left: 0px;
+    border: 3px solid  rgb(216, 214, 214);
+    padding-left: 26px;
+    padding-bottom: 2px;
+}
+
+#item3{
+    background-color: rgb(216, 214, 214);
+    width:120px;
+    margin-left: 0px;
+    border: 3px solid  rgb(216, 214, 214);
+    padding-bottom: 2px;
+    padding-left: 0px;
+}
+
+#item4{
+    background-color: rgb(216, 214, 214);
+    width:100px;
+    margin-left: 0px;
+    border: 3px solid  rgb(216, 214, 214);
+    padding-bottom: 2px;
+    padding-left: 0px;
+}
+
+#proceesmenu{
+    font-size: 11px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 25px;
+    height: 9px;
+    width: 80px;
+    padding-left: 50px;
+    padding-bottom: 10px;
+    padding-top: 8px;
+    background-color: rgb(180, 221, 238);
+    color: blue;
+}
+
+#processmenu1{
+    height: 27px;
+    width:20px;
+    margin-left: 0px;
+    margin-top: 25px;
+    float: left;
+}
+
+#proceesmenu2{
+    height: 25px;
+    width: 250px;
+    margin-left: 0px;
+    margin-top: 25px;
+    float: left;
+    padding-top: 0px;
+    padding-bottom: 2px;
+    padding-left: 40px;
+    font-size: 11px;
+    background-color: dodgerblue;
+}
+
+#processmenu3{
+    height: 29px;
+    width:24px;
+    margin-left:0px;
+    margin-top: 24px;
+    float: left;
+}
+
+.processmenu4{
+    height: 13px;
+    width: 103px;
+    margin-left: 0px;
+    margin-top: 18px;
+    float: left;
+    font-size: 11px;
+    padding-top: 16px;
+    padding-bottom: 7px;
+    padding-left: 49px;
+    color:rgb(156, 154, 154);
+}
+
+#container2{
+    
+    height: 500px;
+    width: 500px;
+    margin-left: 20px;
+    margin-top: 14px;
+    float: left; 
+}
+
+.cardetails:nth-child(even)
+{
+    background-color: rgb(212, 212, 212);
+}
+
+.cardetails{
+    
+    height: 80px;
+    width: 511px;
+    
+}
+
+h3{
+    margin-top: 5px;
+    margin-left: 20px;
+    float: left;
+}
+
+
+.usd1{
+    font-size:10px;
+    margin-left: 20px;
+    margin-top: 24px;
+    float: left;
+    position: absolute;
+}
+
+.slct1{
+    margin-left: 15px;
+    margin-top: 35px;
+    position: absolute;
+}
+
+.sample1{
+    margin-top: 47px;
+    margin-left: 15px;
+    font-size: 9px;
+    position: absolute;
+}
+        
+.car1{
+    margin-left: 22px;
+    margin-top: 0px;
+    height: 70px;
+    width: 115px;
+    float: left;   
+}
+
+.Intro1{
+    font-size: 9px;
+    margin-left:110px;
+    position: absolute;
+    margin-top: 65px;
+    float: left;
+}
+
+.manicon1{
+    margin-left: 10px;
+    margin-top: 10px;
+    position: absolute;
+}
+
+.instructio1{
+    font-size:12px;
+    position: absolute;
+    margin-left: 25px;
+    margin-top: 11px;
+}
+
+.instruct1{
+    font-size:12px;
+    position: absolute;
+    margin-left: 160px;
+    margin-top: 11px;
+}
+
+.smallcaseicon1{
+    font-size:12px;
+    position: absolute;
+    margin-left: 7px;
+    margin-top: 34px;
+}
+.ss1{
+    font-size:12px;
+    position: absolute;
+    margin-left: 25px;
+    margin-top: 33px;
+}
+
+.aircon1{
+    font-size:12px;
+    position: absolute;
+    margin-left: 160px;
+    margin-top: 31px;
+}
+
+.largecaseicon1{
+    font-size:12px;
+    position: absolute;
+    margin-left: 4px;
+    margin-top: 55px;
+}
+
+.ll1{
+    font-size:12px;
+    position: absolute;
+    margin-left: 25px;
+    margin-top: 55px;
+}
+
+.weight1{
+    font-size:12px;
+    position: absolute;
+    margin-left: 160px;
+    margin-top: 55px;
+}
+
+.instruct2{
+    font-size:12px;
+    position: absolute;
+    margin-left: 160px;
+    margin-top: 10px;
+}
+.aircon2{
+    font-size:12px;
+    position: absolute;
+    margin-left: 160px;
+    margin-top: 22px;
+}
+
+.airbag{
+
+    font-size:12px;
+    position: absolute;
+    margin-left: 160px;
+    margin-top: 35px;
+}
+
+.abs{
+    font-size:12px;
+    position: absolute;
+    margin-left: 159px;
+    margin-top: 50px;
+}
+
+.weight2{
+    font-size:12px;
+    position: absolute;
+    margin-left: 159px;
+    margin-top: 64px;
+}
+
+#container3{
+    
+    height: 247px;
+    width:290px;
+    float: left;
+    margin-left: 13px;
+    margin-top: 14px;
+    background-color: lightblue;
+}
+
+#itinerary{
+    margin-left: 20px;
+    margin-top: 10px;
+    float: left;
+}
+
+#change{
+    margin-left: 60px;
+    margin-top: 15px;
+    font-size: 11px;
+    float: left;
+    color: dodgerblue;
+}
+
+#pickup{
+    font-size: 12px;
+    margin-left: 20px;
+    margin-top: 10px;
+    position: absolute;
+}
+
+#text1{
+    font-size: 12px;
+    margin-left: 20px;
+    margin-top: 25px;
+    position: absolute;
+}
+
+#return{
+    font-size: 12px;
+    margin-left: 20px;
+    margin-top: 70px;
+    position: absolute;
+}
+
+#text2{
+    font-size: 12px;
+    margin-left: 20px;
+    margin-top: 83px;
+    position: absolute;
+}
+
+
+#pud{
+    font-size: 12px;
+    margin-left: 20px;
+    margin-top: 143px;
+    position: absolute;
+}
+#text3{
+    font-size: 12px;
+    margin-left: 20px;
+    margin-top: 156px;
+    position: absolute;
+}
+
+#rdate{
+    font-size: 12px;
+    margin-left: 20px;
+    margin-top: 172px;
+    position: absolute;
+}
+
+#text4{
+    font-size: 12px;
+    margin-left: 20px;
+    margin-top: 185px;
+    position: absolute;
+}
+
+#img22{
+    height: 200px;
+    width: 290px;
+    position: absolute;
+    margin-left:0px;
+    margin-top:211px;
+}
+
+#fro{
+    color: white;
+    font-size: 82px;
+    position: absolute; 
+    margin-left: 64px;
+    margin-top: 270px;
+    
+}
+
+#container4{
+    height: 229px;
+    width: 799px;
+    background-image: url('images/footer-bg-grad.png'); 
+    position: absolute;
+    margin-left: 23px;
+    margin-top: 688px;
+}
+
+#stay{
+    margin-left: 23px;
+    margin-top: 20px;
+    position: absolute;
+}
+
+#email{
+    margin-left: 23px;
+    margin-top: 45px;
+    position: absolute;
+}
+#slct2{
+    margin-left: 200px;
+    margin-top: 45px;
+    position: absolute;
+}
+
+#shareicon{
+    height: 30px;
+    width:30px;
+    margin-left: 23px;
+    margin-top: 78px;
+   
+}
+
+#shareicon1{
+    margin-left: 11px;
+    margin-top: 41px;
+}
+
+#shareicon2{
+    margin-left: 11px;
+    margin-top: 42px;
+}
+
+#shareicon3{
+    margin-left: 11px;
+    margin-top: 40px;
+}
+
+#phn{
+    margin-left: 24px;
+    margin-top: 10px;
+}
+
+#adv1{
+    margin-left: 15px;
+    margin-top: 18px;
+    font-size: 11px;
+    color: dodgerblue;
+    position: absolute;
+    float: left;
+
+}
+
+.divider{
+    border:  1px solid white;
+    position:absolute;
+    height: 170px;
+    width: 0px;
+    margin-left: 300px;
+    margin-top: 720px;
+
+    
+}
+
+.divider1{
+    border:  1px solid white;
+    position:absolute;
+    height: 170px;
+    width: 0px;
+    margin-left: 480px;
+    margin-top: 720px;  
+}
+
+.divider2{
+    border:  1px solid white;
+    position:absolute;
+    height: 170px;
+    width: 0px;
+    margin-left: 660px;
+    margin-top: 720px;   
+}
+
+#randr{
+    font-size: 12px;
+    position:absolute;
+    margin-left: 10px;
+    margin-top: 10px;
+    width: 140px;
+    color: dodgerblue;
+}
+
+#quote{
+    font-size: 12px;
+    position:absolute;
+    margin-left: 10px;
+    margin-top: 28px;
+    width: 140px;
+    color: dodgerblue;
+}
+
+#checkin{
+    font-size: 12px;
+    position:absolute;
+    margin-left: 10px;
+    margin-top: 82px;
+    width: 140px;
+    color: dodgerblue;
+}
+
+#Location{
+    font-size: 12px;
+    position:absolute;
+    margin-left: 10px;
+    margin-top: 110px;
+    width: 140px;
+    color: dodgerblue;
+
+}
+
+#deals
+{
+    font-size: 12px;
+    position:absolute;
+    margin-left: 10px;
+    margin-top: 10px;
+    width: 140px;
+    color: dodgerblue;
+}
+
+#cntus{
+    font-size: 12px;
+    position:absolute;
+    margin-left: 10px;
+    margin-top: 35px;
+    width: 140px;
+    color: dodgerblue;
+}
+
+#customer{
+    font-size: 12px;
+    position:absolute;
+    margin-left: 10px;
+    margin-top: 60px;
+    width: 140px;
+    color: dodgerblue;
+}
+
+#faq{
+    font-size: 12px;
+    position:absolute;
+    margin-left: 10px;
+    margin-top: 75px;
+    width: 160px;
+    color:
+}
+
+#careers{
+    font-size: 12px;
+    position:absolute;
+    margin-left: 10px;
+    margin-top: 10px;
+    width: 140px;
+    color: dodgerblue;
+   
+}
+
+#passage{
+
+    
+    font-size: 11px;
+    position:absolute;
+    margin-left: 102px;
+    margin-top: 900px;
+    width: 620px;
+    float:left;
+    height: 30px;
+}
+
+.divider3{
+    border:  1px solid white;
+    position:absolute;
+    height: 9px;
+    width: 799px;
+    margin-left: 20px;
+    margin-top: 934px;
+    float:left;
+    background-color:  dodgerblue;
+}
+
+
+
+

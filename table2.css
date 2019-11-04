@@ -1,0 +1,71 @@
+#Container{
+    height: 600px;
+    width: 600px;
+    border:1px solid black;
+    margin-top: 20px;
+    margin-left: 10px;
+
+}
+
+#header{
+    height: 85px;
+    width: 547px;
+    border:1px solid black;
+    margin-top: 20px;
+    margin-left: 24px;
+}
+
+#nav{
+    height: 323px;
+    width: 70px;
+    border:1px solid black;
+    margin-top: 20px;
+    margin-left: 27px;
+    float: left;
+}
+
+#content{
+    height: 323px;
+    width: 340px;
+    border:1px solid black;
+    margin-top: 20px;
+    margin-left: 27px;
+    float: left;
+}
+
+#subNav{
+    height: 57px;
+    width:309px;
+    border:1px solid black;
+    margin-top: 20px;
+    margin-left: 13px;
+    float: left;
+
+}
+
+.box{
+    height: 200px;
+    width:91px;
+    border:1px solid black;
+    margin-top: 20px;
+    margin-left: 15px;
+    float: left;
+
+}
+
+#ads{
+    height: 447px;
+    width: 95px;
+    border:1px solid black;
+    margin-top: 20px;
+    margin-left: 10px;
+    float: left;
+}
+
+#footer{
+    height: 100px;
+    width: 441px;
+    border:1px solid black;
+    margin-top: 367px;
+    margin-left: 24px;
+}

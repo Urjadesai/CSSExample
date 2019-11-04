@@ -1,0 +1,80 @@
+#container{
+    height:800px;
+    width: 912px;
+    margin-left:50px;
+    margin-top:50px;
+}
+
+#logo{
+    height:67px;
+     width:238px;
+     background-image: url(images/Logo.png);
+    margin-left:537px;
+    margin-top: 0px;
+    float: right;
+}
+
+#box1{
+    height:8px;
+     width:900px;
+    margin-right:45px;
+    margin-top: 0px;
+    border: 1px solid blue;
+    background-color: blue;
+   
+}
+
+#symbol{
+    height: 200px;
+    width: 201px;
+    margin-left:1px;
+    margin-top: 31px;
+    background-image: url(images/pushbuttons-reduced.jpg);
+   
+}
+
+#Intro{
+    
+    
+    margin-left:234px;
+    margin-top: -222px;
+    text-align: justify;
+}
+
+.box2{
+    height: 242px;
+    width: 252px;
+    border:1px solid black;
+    text-align: justify;
+    float: left;
+    padding-left: 17px;
+    margin-left:3px;
+    margin-right:22px;
+    margin-top: 29px;
+    border-radius: 15px;
+
+}
+
+#box3{
+    height: 18px;
+    width:900px;
+    color: aliceblue;
+    background-color: dodgerblue;
+   position: absolute;
+   margin-top: 296px;
+   
+    
+
+}
+.swta{
+    margin-top: 0px;
+}
+
+#box3 ul li {
+   
+    margin-left: 5px;
+    text-decoration: none;
+    /* float: left; */
+    display: inline;
+  
+}

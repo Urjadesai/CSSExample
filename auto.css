@@ -1,0 +1,215 @@
+#Container{
+    height: 605px;
+    width: 1250px;
+    background-color: lightskyblue;
+    margin-left:103px;
+}
+
+#box1{
+    height: 555px;
+    width: 966px;
+    border: 7px solid white;
+    margin-left: 129px;
+    margin-top: 11px;
+    position: absolute;
+    border-radius: 15px;
+   
+}
+
+#box2{
+    height: 444px;
+    width: 888px;
+    border: 2px solid orange;
+    margin-left: 175px;
+    position: absolute;
+    margin-top: 37px;
+    border-radius: 5px;
+    background-color: white;
+}
+
+h1{
+    color: orange;
+    margin-left: 378px;
+    margin-top: 40px;
+    position: absolute;
+    font-size: 50px;
+}
+
+h3{
+    color: blue;
+    margin-top: 101px;
+    margin-left: 528px;
+    position: absolute;
+    
+}
+#tool{
+    margin-left: 155px;
+}
+.box3{
+    background-color: blue;
+    float:left;
+    height: 203px;
+    width: 246px;
+    margin-top: 147px;
+    margin-left: 50px;
+    position: relative;
+    color: rgb(247, 251, 255);
+    border-radius:10px;
+    
+}
+
+.box4{
+    height: 150px;
+    width: 230px;
+    margin-top:-17px;
+    margin-left: 8px;
+    position:relative;
+    background-color:white;
+    border-radius:10px;
+    color: black;
+    
+
+}
+
+#img1{
+    height: 200px;
+    width: 200px;
+    margin-top:371px;
+    margin-left: 387px;
+    position: absolute;
+
+
+}
+
+#img2{
+    height: 159px;
+    width: 136px;
+    margin-top: 500px;
+    margin-left: 178px;
+    position: absolute;
+}
+
+#img3{
+    height: 50px;
+    width: 70px;
+    margin-left: 965px;
+    margin-top: 510px;
+    position: absolute;
+}
+
+#text{
+    margin-left: 336px;
+    margin-top: 515px;
+    color: white;
+    position: absolute;
+}
+
+ #myfn{
+    height: 10px;
+    width: 120px;
+    padding: 4px;
+    margin-top: 3px;
+    margin-left: 3px;
+    position: relative;
+
+    } 
+#mymi{
+    margin-left: 75px;
+}
+
+#myid{
+    width:69px;
+    color: black;
+    height: 16px;
+    position: relative;
+    margin-left: 10px;
+    margin-top: 6px;
+    padding-left: 0px
+    
+}
+
+
+#myln{
+    height: 16px;
+    width: 129px;
+    position: relative;
+    margin-left: 2px;
+    margin-top: 4px;
+    padding-left: 1px;
+}
+
+#mysuffix{
+    margin-left: 83px;  
+    
+}
+#sfx1{
+    margin-left: 10px;
+}
+
+#dt{
+    margin-left: 5px;
+    margin-top: 62px;
+    position:absolute;
+    
+}
+
+#mnth{
+    margin-left:65px;
+    margin-top: 62px;
+    position:absolute;
+}
+
+#year1{
+    margin-left:160px;
+    margin-top: 62px;
+    position:absolute;
+}
+
+#adr{
+    height: 17px;
+    width: 140px;
+    margin-left: 4px;
+    margin-top: 5px;
+    position: absolute;
+}
+#uni{
+    margin-left: 100px;
+}
+#aut
+{
+    height: 16px;
+    width: 50px;
+    margin-left: 163px;
+    margin-top: 5px;
+    position: relative;
+}
+
+#st{
+    margin-left: 60px;
+}
+
+#zc{
+    margin-left: 40px;   
+}
+
+#cty{
+    height: 17px;
+    width: 65px;
+    margin-left: 3px;
+    margin-top: 3px;
+    position: absolute;
+}
+
+#ste{
+    margin-left: 90px;
+    margin-top: 3px;
+    position: absolute;
+}
+
+#ZCD{
+    height: 17px;
+    width: 61px;
+    margin-left: 160px;
+    margin-top: 3px;
+    position: absolute;
+}
